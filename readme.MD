@@ -33,7 +33,7 @@ Criar uma aplicação web utilizando **JavaScript puro (Vanilla JS)** para consu
 
 ## 🔗 Acesse o Projeto
 
-- 💻 GitHub: [COLE AQUI O LINK]
+- 💻 GitHub: https://github.com/RafaelPinhoDev/consumo-api-personagens
 - 🌐 GitHub Pages: https://rafaelpinhodev.github.io/consumo-api-personagens/
 
 ---
