@@ -53,7 +53,7 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 
 Confira a publicação sobre este projeto:
 
-👉 [COLE AQUI O LINK DO POST]
+👉 https://www.linkedin.com/posts/rafaelsouzapinho_javascript-frontend-fullstack-ugcPost-7450196359837630464-Z59A
 
 ---
 
