@@ -11,12 +11,13 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh; 
+    background-color: lightblue;
 }
 
 h1 {
     text-align: center;
     color: white;
-    background-color: #222;
+    background-color: #b90000;
     padding: 0.6em;
 }
 
@@ -79,6 +80,24 @@ h1 {
 }
 
 
+.card:hover {
+    transform: translateY(-10px); /* O card sobe 10px */
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15); /* Aumenta a sombra */
+    border-color: #b90000; /* A borda fica vermelha igual ao seu header/footer */
+}
+
+
+.card:hover img {
+    filter: brightness(1.1);
+    transition: 0.3s;
+}
+
+
+.card:hover h3 {
+    color: #b90000;
+    transition: 0.3s;
+}
+
 .card h3 {
     margin: 10px 0;
     color: #222;
@@ -93,7 +112,7 @@ h1 {
 }
 
 footer {
-    background-color: #222;
+    background-color: #b90000;
     color: white;
     padding: 20px;
     text-align: center;
